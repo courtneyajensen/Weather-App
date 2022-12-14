@@ -1,6 +1,6 @@
 Weather App
 
-URL:
+URL: https://courtneyajensen.github.io/Weather-App/
 
 Description: This app allows users to search for a 5 day forecast for different cities. The app uses HTML, CSS, and Javascript. The app uses OpenWeather API to retrieve the weather data.
 
